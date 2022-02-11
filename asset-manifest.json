@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/cory/static/css/main.b2320430.chunk.css",
+    "main.js": "/github.io/cory/static/js/main.52485378.chunk.js",
+    "main.js.map": "/github.io/cory/static/js/main.52485378.chunk.js.map",
+    "runtime-main.js": "/github.io/cory/static/js/runtime-main.cef74e15.js",
+    "runtime-main.js.map": "/github.io/cory/static/js/runtime-main.cef74e15.js.map",
+    "static/js/2.65392e39.chunk.js": "/github.io/cory/static/js/2.65392e39.chunk.js",
+    "static/js/2.65392e39.chunk.js.map": "/github.io/cory/static/js/2.65392e39.chunk.js.map",
+    "index.html": "/github.io/cory/index.html",
+    "static/css/main.b2320430.chunk.css.map": "/github.io/cory/static/css/main.b2320430.chunk.css.map",
+    "static/js/2.65392e39.chunk.js.LICENSE.txt": "/github.io/cory/static/js/2.65392e39.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/github.io/cory/static/media/bg.86c2be36.jpeg",
+    "static/media/cory.c8cae190.png": "/github.io/cory/static/media/cory.c8cae190.png",
+    "static/media/user.4870410b.svg": "/github.io/cory/static/media/user.4870410b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cef74e15.js",
+    "static/js/2.65392e39.chunk.js",
+    "static/css/main.b2320430.chunk.css",
+    "static/js/main.52485378.chunk.js"
+  ]
+}
